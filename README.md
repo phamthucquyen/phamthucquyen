@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her/hers
 
 -->
+- 🔭 I'm currently working on software development
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on any coding projects
+- 📫 How to reach me: qpham@mail.wlu.edu
+- 😄 Pronouns: she/her/hers
