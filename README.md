@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I'm currently working on software development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on any coding projects
 - 📫 How to reach me: qpham@mail.wlu.edu
 - 😄 Pronouns: she/her/hers
